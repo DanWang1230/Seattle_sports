@@ -26,13 +26,9 @@
 
 * A blog post can found [here](https://danwang.page/pages/seattle_sports.html).
 
----
-
 ## Files in this repository
 
 The jupyter notebook shows the steps of data gathering, assessing, cleaning, analyzing, modeling, and visualizing.
-
----
 
 ## Results
 
