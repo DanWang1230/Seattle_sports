@@ -1,3 +1,6 @@
+# Seattle Sports
+
+
 ## libraries
 
 
@@ -15,13 +18,21 @@
 
 `matplotlib`
 
+---
+
 ## Motivation
 
-This project was concerned with answering the question of how the win percentages of the four major Seattle sports teams (Seahawks, Mariners, Sounders FC, and Storm) have changed.
+* This project concerns about answering the question of how the win percentages of the four major Seattle sports teams (Seahawks, Mariners, Sounders FC, and Storm) have changed.
+
+* A blog post can found [here](https://danwang.page/pages/seattle_sports.html).
+
+---
 
 ## Files in this repository
 
 The jupyter notebook shows the steps of data gathering, assessing, cleaning, analyzing, modeling, and visualizing.
+
+---
 
 ## Results
 
